@@ -19,4 +19,3 @@ Desde la carpeta `SLopez/practica02/src`:
 
 javac icc/Fecha.java icc/TiempoDeInversion.java
 java icc.TiempoDeInversion
-(esto si es que se usa package icc; que lo use debido a que no sabía si es que se ejecutaría aquí o en otro programa externo)
